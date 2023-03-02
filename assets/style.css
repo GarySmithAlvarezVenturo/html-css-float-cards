@@ -27,3 +27,36 @@ p{
     font-family: 'Poppins', sans-serif;
     
 }
+
+.container2{
+    width: 1000px;
+    height: 300px;
+    margin: 20px auto;
+    border: solid 2px blue;
+    background: aqua;
+    overflow: hidden;
+
+}
+
+.box{
+    box-sizing: border-box;
+    width: 320px;
+    height: 104px;
+    margin: 0;
+    border: solid 2px black;
+}
+
+img{
+    float: left;
+    width: 100px;
+
+}
+
+.boxphoto{
+    float: left;
+    overflow: auto;
+    width: 100px;
+    height: 100px;
+    
+    
+}
