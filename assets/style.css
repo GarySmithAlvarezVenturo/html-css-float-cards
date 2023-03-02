@@ -21,42 +21,43 @@ body{
     font-family: 'Tilt Warp', cursive;
 }
 
-p{
+.title2{
     margin-top: 5rem;
     font-size: 1rem;
     font-family: 'Poppins', sans-serif;
     
 }
 
-.container2{
+.container{
     width: 1000px;
-    height: 300px;
-    margin: 20px auto;
-    border: solid 2px blue;
-    background: aqua;
-    overflow: hidden;
-
+    margin-inline: auto;
+    margin-top: 4rem;
 }
 
-.box{
-    box-sizing: border-box;
-    width: 320px;
-    height: 104px;
-    margin: 0;
-    border: solid 2px black;
+.box-member{
+    width: 350px;
+    height: 100px;
+    background-color: black;
+
 }
 
 img{
     float: left;
     width: 100px;
-
+    margin-right: 1rem;
 }
 
-.boxphoto{
-    float: left;
-    overflow: auto;
-    width: 100px;
-    height: 100px;
-    
-    
+.name-member{
+    color: white;
 }
+
+.work-member{
+    color: white;
+    margin-top: 1rem;
+}
+
+address{
+    color: rgba(4, 89, 247, 0.726);
+    margin-top: 1rem;
+}
+
