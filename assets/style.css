@@ -37,8 +37,7 @@ body{
 .box-member{
     width: 350px;
     height: 100px;
-    background-color: black;
-
+    background-color: rgb(1, 0, 8);
 }
 
 img{
@@ -49,15 +48,22 @@ img{
 
 .name-member{
     color: white;
+    font-family: 'Tilt Warp', cursive;
+    position: relative;
+    top: 7px;
 }
 
 .work-member{
     color: white;
     margin-top: 1rem;
+    font-family: 'Poppins', sans-serif;
+    
 }
 
 address{
     color: rgba(4, 89, 247, 0.726);
-    margin-top: 1rem;
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    top: 5px;
 }
 
